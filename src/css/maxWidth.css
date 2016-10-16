@@ -1,0 +1,86 @@
+.mw1 { max-width: 1rem; }
+.mw2 { max-width: 2rem; }
+.mw3 { max-width: 4rem; }
+.mw4 { max-width: 8rem; }
+.mw5 { max-width: 16rem; }
+.mw6 { max-width: 32rem; }
+.mw7 { max-width: 48rem; }
+.mw8 { max-width: 64rem; }
+.mw9 { max-width: 96rem; }
+.mw100 { max-width: 100%; }
+.mw-none { max-width: none; }
+
+/* Small only */
+@media screen and (max-width: 39.9375em) {
+    .so-mw1 { max-width: 1rem; }
+    .so-mw2 { max-width: 2rem; }
+    .so-mw3 { max-width: 4rem; }
+    .so-mw4 { max-width: 8rem; }
+    .so-mw5 { max-width: 16rem; }
+    .so-mw6 { max-width: 32rem; }
+    .so-mw7 { max-width: 48rem; }
+    .so-mw8 { max-width: 64rem; }
+    .so-mw9 { max-width: 96rem; }
+    .so-mw100 { max-width: 100%; }
+    .so-mw-none { max-width: none; }
+}
+
+/* Medium and up */
+@media screen and (min-width: 40em) {
+    .mu-mw1 { max-width: 1rem; }
+    .mu-mw2 { max-width: 2rem; }
+    .mu-mw3 { max-width: 4rem; }
+    .mu-mw4 { max-width: 8rem; }
+    .mu-mw5 { max-width: 16rem; }
+    .mu-mw6 { max-width: 32rem; }
+    .mu-mw7 { max-width: 48rem; }
+    .mu-mw8 { max-width: 64rem; }
+    .mu-mw9 { max-width: 96rem; }
+    .mu-mw100 { max-width: 100%; }
+    .mu-mw-none { max-width: none; }
+}
+
+/* Medium only */
+@media screen and (min-width: 40em) and (max-width: 63.9375em) {
+    .mo-mw1 { max-width: 1rem; }
+    .mo-mw2 { max-width: 2rem; }
+    .mo-mw3 { max-width: 4rem; }
+    .mo-mw4 { max-width: 8rem; }
+    .mo-mw5 { max-width: 16rem; }
+    .mo-mw6 { max-width: 32rem; }
+    .mo-mw7 { max-width: 48rem; }
+    .mo-mw8 { max-width: 64rem; }
+    .mo-mw9 { max-width: 96rem; }
+    .mo-mw100 { max-width: 100%; }
+    .mo-mw-none { max-width: none; }
+}
+
+/* Large and up */
+@media screen and (min-width: 64em) {
+    .lu-mw1 { max-width: 1rem; }
+    .lu-mw2 { max-width: 2rem; }
+    .lu-mw3 { max-width: 4rem; }
+    .lu-mw4 { max-width: 8rem; }
+    .lu-mw5 { max-width: 16rem; }
+    .lu-mw6 { max-width: 32rem; }
+    .lu-mw7 { max-width: 48rem; }
+    .lu-mw8 { max-width: 64rem; }
+    .lu-mw9 { max-width: 96rem; }
+    .lu-mw-100 { max-width: 100%; }
+    .lu-mw-none { max-width: none; }
+}
+
+/* Large only */
+@media screen and (min-width: 64em) and (max-width: 74.9375em) {
+    .lo-mw1 { max-width: 1rem; }
+    .lo-mw2 { max-width: 2rem; }
+    .lo-mw3 { max-width: 4rem; }
+    .lo-mw4 { max-width: 8rem; }
+    .lo-mw5 { max-width: 16rem; }
+    .lo-mw6 { max-width: 32rem; }
+    .lo-mw7 { max-width: 48rem; }
+    .lo-mw8 { max-width: 64rem; }
+    .lo-mw9 { max-width: 96rem; }
+    .lo-mw-100 { max-width: 100%; }
+    .lo-mw-none { max-width: none; }
+}
